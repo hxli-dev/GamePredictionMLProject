@@ -1,1 +1,1 @@
-The two final colab files, represent our produced models. The full results of this project is included in the "ML Project Conclusion" file.
+The two final google colab files, represent our produced models MachineLearningGamePrediction.ipynb and k_class_final.ipynb. The full results of this project is included in the "ML Project Conclusion" file.
